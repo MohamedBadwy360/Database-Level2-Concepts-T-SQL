@@ -6,6 +6,8 @@ This Repository contains Labs, Assignments, Projects and Certificate for [Databa
 
 The Course is about `Database & T-SQL`.
 
+Designing of database and tables is not perfect. Its only objective is for training on T-SQL.
+
 ---
 
 **Tools:** `Visual Studio`, `Visual Studio Code`, `Microsoft SQL Server`.
